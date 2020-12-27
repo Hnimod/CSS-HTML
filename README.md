@@ -2,7 +2,7 @@
 
 Extensive CSS, HTML, sass project with modern looking, fully responsive for travelling website.
 
-https://natours-2c17b.web.app/
+Demo: https://natours-2c17b.web.app/
 
 <br/>
 
